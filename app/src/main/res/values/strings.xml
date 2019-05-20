@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scanner QRcode with Web Api</string>
+    <string name="scan">Scan</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="photo">Photo</string>
+</resources>
